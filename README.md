@@ -1,2 +1,3 @@
 # hello-world
-Jusi another repository
+Just another repository
+Just the guide
